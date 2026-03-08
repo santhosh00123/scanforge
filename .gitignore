@@ -1,0 +1,11 @@
+# Scan output folders (named after target IPs)
+[0-9]*/
+
+# Scan result files
+*.nmap
+*.tmp
+*.txt
+
+# OS clutter
+.DS_Store
+Thumbs.db
