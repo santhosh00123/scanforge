@@ -63,7 +63,7 @@ sudo apt install ffuf gobuster nikto smbmap smbclient enum4linux ldap-utils dnsr
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/scanforge.git
+git clone https://github.com/santhosh00123/scanforge.git
 cd scanforge
 chmod +x scanforge.sh
 ```
