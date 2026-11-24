@@ -136,10 +136,6 @@ Only scan systems you own or have **written permission** to test. Unauthorized s
 
 ---
 
-## Credits
-
-Inspired by [nmapAutomator](https://github.com/21y4d/nmapAutomator) by 21y4d.
-
 ## License
 
 MIT. See [LICENSE](LICENSE).
