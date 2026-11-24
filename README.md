@@ -3,14 +3,6 @@
 Automated multi-host, multi-type **nmap** scanning with a live progress bar, written in pure POSIX `sh`.
 
 Give it targets and scan types. It runs the scans, shows progress, and saves everything into one clean report per host.
-
-sed -i '/^Automated multi-host/a\
-\
-<p align="center">\
-  <img src="assets/demo.gif" alt="scanforge demo" width="800">\
-</p>\
-\
-[Download the full demo video](demo-video/scanforge-demo.mp4)' README.md
 ---
 
 ## Features
